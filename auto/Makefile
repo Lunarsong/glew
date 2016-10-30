@@ -64,7 +64,7 @@ TOP = ..
 I.DEST = $(TOP)/include/GL
 S.DEST = $(TOP)/src
 D.DEST = $(TOP)/doc
-B.DEST = $(TOP)/build
+B.DEST = $(TOP)/buildfiles
 
 I.TARGETS = \
 	$(I.DEST)/glew.h \
